@@ -98,7 +98,7 @@ ORDER BY top_paying_jobs.salary_year_avg DESC
 
 ![top skills](https://github.com/KapadiaH/SQL_Data_Analysis/blob/main/Assets/q2.png)
 
-### 3. In-Demand Skills for Data Analysts
+### 3. In-Demand Skills for Data/Business Analysts
 
 This query helped identify the most sought-after skills in job postings for data analysts, directing attention to areas with significant demand.
 
