@@ -22,7 +22,7 @@ For my in-depth exploration of the data analytics job market, I utilized several
 - **Visual Studio Code**: My go-to for managing databases and executing SQL queries.
 - **Git & GitHub**: Crucial for version control and sharing my SQL scripts and analyses, facilitating collaboration and project tracking.
 # The Analysis 
-Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
+Each query for this project aimed at investigating specific aspects of the data analytics job market. Here’s how I approached each question:
 
 ### 1. Top Paying Data Analyst Jobs
 
