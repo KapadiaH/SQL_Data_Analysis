@@ -20,7 +20,7 @@ job_postings_fact.salary_year_avg IS NOT NULL
 GROUP BY skills
 ORDER BY 
     avg_salary_year DESC
-LIMIT 25
+LIMIT 10
 
 /*
 Here are the trends summarized into three key points:

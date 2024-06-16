@@ -121,6 +121,13 @@ INNER JOIN skills_dim ON remote_job_skills.skill_id = skills_dim.skill_id
 ORDER BY skills_count DESC
 LIMIT 5 
 ```
+| Skill      | Mentions |
+|------------|----------|
+| SQL        | 8557     |
+| Excel      | 5594     |
+| Python     | 4876     |
+| Tableau    | 4473     |
+| Power BI   | 3164     |
 
 
 ### 4. Skills Based on Salary
@@ -140,6 +147,19 @@ ORDER BY
     avg_salary_year DESC
 LIMIT 25
 ```
+| Skill       | Avg Salary/Year |
+|-------------|-----------------|
+| SVN         | 246586          |
+| Solidity    | 179000          |
+| Couchbase   | 160515          |
+| DataRobot   | 155486          |
+| Golang      | 155000          |
+| dplyr       | 147633          |
+| VMware      | 147500          |
+| Twilio      | 138500          |
+| MXNet       | 136000          |
+| Puppet      | 129820          |
+
 Here are the trends summarized into three key points:
 
 1. **Specialized Skills in High Demand**: Top-paying jobs require expertise in niche areas like version control (SVN), blockchain (Solidity), and big data technologies (Couchbase, Kafka, Cassandra).
@@ -191,6 +211,18 @@ WHERE count_skills >10
 ORDER BY avg_salary_year DESC,count_skills DESC
 LIMIT 25
 ```
+| Skill       | Count Skills | Avg Salary/Year |
+|-------------|--------------|-----------------|
+| Kafka       | 46           | 126035          |
+| PyTorch     | 23           | 124588          |
+| Perl        | 21           | 122520          |
+| TensorFlow  | 27           | 120612          |
+| Phoenix     | 39           | 119921          |
+| Airflow     | 77           | 117870          |
+| Cassandra   | 13           | 116881          |
+| Scala       | 64           | 114367          |
+| MongoDB     | 29           | 114131          |
+
 # What I Learned 
 
 During this journey, I've significantly enhanced my SQL toolkit with advanced skills:

@@ -41,4 +41,3 @@ FROM skills_demand
 INNER JOIN avg_salary ON skills_demand.skill_id = avg_salary.skill_id
 WHERE count_skills >10 
 ORDER BY avg_salary_year DESC,count_skills DESC
-LIMIT 25
