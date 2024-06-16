@@ -24,7 +24,7 @@ For my in-depth exploration of the data analytics job market, I utilized several
 # The Analysis 
 Each query for this project aimed at investigating specific aspects of the data analytics job market. Here’s how I approached each question:
 
-### 1. Top Paying Data Analyst Jobs
+### 1. Top Paying Data/Business Analyst Jobs
 
 I filtered data/business analyst positions based on average yearly salary and location, prioritizing remote roles, to pinpoint the highest-paying opportunities in the field. This query underscores the lucrative prospects available.
 
