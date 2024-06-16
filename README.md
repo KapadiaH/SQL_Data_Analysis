@@ -56,7 +56,7 @@ LIMIT 10;
 
 - Job Title Variety:There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics
 
-![Top paying companies](Assets\q1b.png)
+![Top paying companies](https://github.com/KapadiaH/SQL_Data_Analysis/blob/main/Assets/q1a.png)
 ### 2. Skills for Top Paying Jobs
 
 To discern the skills needed for top-paying jobs, I joined job postings with skills data, offering insights into the competencies highly valued by employers for high-compensation roles.
@@ -96,7 +96,7 @@ ORDER BY top_paying_jobs.salary_year_avg DESC
 - Tableau is also highly sought after, with a bold count of 6.
 - Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
 
-![top skills](Assets\q2.png)
+![top skills](https://github.com/KapadiaH/SQL_Data_Analysis/blob/main/Assets/q2.png)
 
 ### 3. In-Demand Skills for Data Analysts
 
