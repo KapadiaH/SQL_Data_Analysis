@@ -96,7 +96,7 @@ ORDER BY top_paying_jobs.salary_year_avg DESC
 - Tableau is also highly sought after, with a bold count of 6.
 - Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
 
-![top skills](Assets\q2.png)
+![top skills](https://github.com/KapadiaH/SQL_Data_Analysis/blob/main/Assets/q1a.png)
 
 ### 3. In-Demand Skills for Data Analysts
 
